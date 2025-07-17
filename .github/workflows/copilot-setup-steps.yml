@@ -36,6 +36,9 @@ jobs:
 
       - name: Install JavaScript dependencies
         run: npm ci
+
+      - name: Test
+        run: npm test
         
       # - name: Install Playwright browsers (if needed)
       #   run: |
