@@ -16,6 +16,10 @@
       {
         "command": "sample-ext.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "sample-ext.asyncTest",
+        "title": "Async Test"
       }
     ]
   },
